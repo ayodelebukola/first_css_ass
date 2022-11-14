@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+#first_div{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 170px;
+    margin-right: 20px;
+
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    border: 2px;
+    border-style: solid;
+    border-color: wheat;
+    border-radius: 5px;
+
+    width: 500px;
+    background-color: crimson;
+}
+
+.likes{
+    color: white;
+    text-decoration: underline;
+}
+
+.acual_likes{
+    color: burlywood;
+}
+
+main{
+    display: flex;
+}
+
+.second_div{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    border: 2px;
+    border-style: double;
+    border-color: wheat;
+    border-radius: 5px;
+
+    width: 500px;
+    background-color: yellow;
+    
+}
+
+.dislikes{
+    color: red;
+    text-decoration: underline;
+}
+
+.actual_dislikes{
+    color: rgb(7, 73, 7);
+}
